@@ -12,13 +12,9 @@ import (
 	"github.com/urfave/cli/v2"
 )
 
-var version = ""
+var version = "1.0.0"
 
 func main() {
-	if version == "" {
-		version = "0.0.0-dev"
-	}
-
 	app := &cli.App{
 		Name:        "mvrep",
 		Usage:       "Rename files and directories based on a pattern or fixed string substitution",

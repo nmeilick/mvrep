@@ -1,11 +1,11 @@
 <p>
 <div align="center">
-<img src="logo.png" width="630" alt="mvrep logo"></p>
+<img src="logo.png" width="400" alt="mvrep logo"></p>
 </div>
 
 # mvrep
 
-`mvrep` is a powerful command-line tool for renaming files and directories based on a pattern or fixed string substitution. It supports various options for dry-run, fixed string substitution, interactive mode, and more.
+`mvrep` is a simple command-line tool for renaming files and directories based on a pattern or fixed string substitution. It supports various options for dry-run, fixed string substitution, interactive mode, and more.
 
 ## Features
 

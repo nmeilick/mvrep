@@ -1,0 +1,22 @@
+# Binaries
+bin/
+
+# OS generated files
+.DS_Store
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Misc
+.plandex
+*.sw?
+test
+
+# Dependency directories
+vendor/
